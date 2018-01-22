@@ -14,7 +14,7 @@ public class Auto {
     private String Carname = "";
     private int CarNr = 0;
     private int Ps = 0;
-    private String color = "yellow";
+    private String color = "aaa";
     
 
     public String getCarname() {
