@@ -16,6 +16,7 @@ public class Manager {
     
     public void addPerson(Person p){
         PersonArr[0] = p;
+        System.out.println("pkgManager.Manager.addPerson()");
     }
     
     
